@@ -40,3 +40,8 @@ booleano_dos = False  # Esto es un boolean
 """
 
 print("¡Hola, Python!")
+
+print(type(texto))
+print(type(enteros))
+print(type(decimales))
+print(type(booleano))
